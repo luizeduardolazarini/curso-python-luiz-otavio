@@ -4,3 +4,13 @@
 print(12, 34, sep=' - ', end=' - ') 
 print(56, 78, sep=' - ', end=' - ')
 print(9, 10, sep=' - ')
+
+# Aspas simples
+print('Olá, mundo!')
+
+# Aspas duplas
+print("Olá, mundo!")
+
+# r
+print(r'Olá, mundo!')
+
